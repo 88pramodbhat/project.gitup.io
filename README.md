@@ -68,13 +68,13 @@
         <h2>Course Code Placeholder</h2>
         <dl>
             <dt>Student Name</dt>
-            <dd>Pramod bhat</dd>
+            <dd>Pramod Bhat</dd>
             <dt>SRN</dt>
-            <dd>01fe23bcs296</dd>
+            <dd>01FE23BCS296</dd>
             <dt>Course Instructor</dt>
-            <dd>prakash hegade</dd>
+            <dd>Prakash Hegade</dd>
             <dt>University</dt>
-            <dd>kle technological university</dd>
+            <dd>KLE Technological University</dd>
             <dt>Portfolio Topic/Domain</dt>
             <dd>Google</dd>
         </dl>
